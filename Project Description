@@ -1,0 +1,2 @@
+In this app, we authencticated the user by using his phone number. First of all the user has to sign up in the application and enter some of his details. 
+After that OTP will be sent on his phone and then the user will be authenticated. If entered correct OTP then he will be redirected to another page otherwise it will show error while logging in.
